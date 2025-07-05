@@ -1,2 +1,2 @@
 ./gradlew build  
-.jar in commonutils/build/libs/
+.jar in common-utils/build/libs/
